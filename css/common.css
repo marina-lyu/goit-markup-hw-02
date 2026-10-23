@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: white;
+    background-color: #FFFFFF;
     font-size: 16px;
     line-height: 1.5;  
 }
@@ -14,8 +14,4 @@ ul {
 }
 button {
     cursor: pointer
-}
-h2 {
-    text-align: center;
-    font-size: 36px;
 }

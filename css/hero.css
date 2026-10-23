@@ -1,25 +1,24 @@
-#hero {
+.hero {
     background-color: #2E2F42;
 }
 .section-title {
-    width: 700;
+    font-weight: 700;
     font-size: 56px;
     text-align: center; 
     line-height: 1.07;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: white;
 }
-button {
+.button {
+    font-weight: 500;
+    letter-spacing: 0.04em;
     text-align: center;
     background-color: #4D5AE5;
     color: white;
 }
-button:hover {
+.button:hover {
     background-color: #404BBF
 }
-button:focus {
-    background-color: #404BBF
-}
-button:focus {
+.button:focus {
     background-color: #404BBF
 }
